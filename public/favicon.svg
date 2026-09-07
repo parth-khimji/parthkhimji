@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Credence Chronicle">
+  <rect width="32" height="32" rx="7" fill="#0B0A09"/>
+  <g fill="none" stroke="#C9A27A" stroke-width="4" stroke-linecap="butt">
+    <path d="M12.51 11.54A6 6 0 1 0 12.51 20.46"/>
+    <path d="M27.51 11.54A6 6 0 1 0 27.51 20.46"/>
+  </g>
+</svg>

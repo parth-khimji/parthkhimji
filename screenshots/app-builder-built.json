@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Credence Chronicle",
+      "hasCanvas": false,
+      "bodyTextLen": 2950,
+      "bodyTextHash": "bb865cde1949b09fddaa9660fe1b87aa224a8c6972884f0b01b19c0a6dfba18e",
+      "bodyTextPrefix": "MUSCAT · 2026 Credence Chronicle Credence CHRONICLE Work Service",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Credence Chronicle",
+      "hasCanvas": false,
+      "bodyTextLen": 2904,
+      "bodyTextHash": "8aba861a5f54202e207e83ffc01f097449ab1408b4688d2a99cae372ffe44871",
+      "bodyTextPrefix": "MUSCAT · 2026 Credence Chronicle Credence CHRONICLE STUDIO OPEN ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
